@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi!
+
+I am practicing how to use GitHub for version control.
